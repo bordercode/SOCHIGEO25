@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>plot on DEUMA 2021</title>
+    <link>/tags/plot/</link>
+    <description>Recent content in plot on DEUMA 2021</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/plot/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Indicadores a partir de imágenes satelitales  multiespectrales Sentinel2A  </title>
+      <link>/metodolog%C3%ADa/2019-10-23-remote-sensing/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/metodolog%C3%ADa/2019-10-23-remote-sensing/</guid>
+      <description>En la segunda etapa de la investigación se aplican herramientas de precepción remota para el análisis de imágenes satelitales multiespectrales en formato ráster adquiridas mediante el proyecto Sentinel2, un proyecto a cargo de la comisión Europea Copérnico. La resolución que se tiene con este acervo es en el rango de 10 a 60 metros por pixel, lo que se considera adecuado dada la escala regional de este trabajo de investigación.</description>
+    </item>
+    
+  </channel>
+</rss>

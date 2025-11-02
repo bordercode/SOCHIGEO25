@@ -1,0 +1,19 @@
+---
+title: "Indicadores a partir de imágenes satelitales  multiespectrales Sentinel2A  "
+author: "Frida Gomam"
+date: 2015-07-23T21:13:14-05:00
+categories: ["R"]
+tags: ["R Markdown", "plot", "regression"]
+---
+
+
+
+<p>En la segunda etapa de la investigación se aplican herramientas de precepción remota para el análisis de imágenes satelitales multiespectrales en formato ráster adquiridas mediante el proyecto Sentinel2, un proyecto a cargo de la comisión Europea Copérnico. La resolución que se tiene con este acervo es en el rango de 10 a 60 metros por pixel, lo que se considera adecuado dada la escala regional de este trabajo de investigación.</p>
+<p>La elección de esta fuente de imágenes se debe a que se trata de un proyecto diseñado específicamente con propósitos de monitoreo ambiental en el marco del (<strong>Global Monitoring for Environment and Security</strong>) que es actualmente una referencia estándar en investigación aplicada, (Waldner, Chen, Lawes, &amp; Hochman, 2019).</p>
+<p><strong>Sentinel 2</strong> permite contar con 13 bandas multiespectrales, incluidas el infrarrojo cercano (NIR por sus silgas en inglés) y el infrarrojo de onda corta (SWIR) lo que hace factible la estimación de los indicadores necesarios para el monitoreo de condiciones de estrés hídrico implícitos en la problemática que aborda esta investigación, así como su representación mediante combinaciones multiespectrales para detectar atributos en el terreno como lo son las áreas de cultivo de vid.</p>
+<p>En particular se estiman: el Índice Diferencial Normalizado de vegetación <strong>(NDVI)</strong> cuyo cálculo emplea las bandas infrarrojo cercano (NIR por sus siglas en inglés) y Rojo, (Augusto, Martínez-Rincón, &amp; Morales-Zárate, 2017) con la siguiente especificación:</p>
+<p><span class="math display">\[NDVI= NIR-RED/ NIR+RED.                               (1)\]</span></p>
+<p>Para explorar las condiciones de estrés hídrico se optó por estimar el índice diferencial normalizado de recursos hídricos <strong>(NDWI)</strong> introducido originalmente por (Gao, 1996) y utilizado de forma regular en estudios sobre gestión de recursos hídricos como (Mondejar &amp; Tongco, 2019; Qiao et al., 2012). Este refleja el contenido de humedad en plantas y suelo y varía en el rango -1,1, donde los valores superiores (cercanos a 1) indican presencia de humedad o áreas irrigadas, mientras las áreas en situación de sequía se ubican en los valores opuestos de la escala con el caso externo -1.</p>
+<p>La especificación calculada es:
+<span class="math display">\[NDWI= NIR-SWIR / NIR+ SWIR\]</span>
+<strong>El producto obtenido</strong> en esta etapa es la <strong>cartografía en formato el ráster</strong> para el valle de Guadalupe con ambos indicadores, así como una representación vectorial mediante curvas de nivel para áreas de interés particular.</p>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DEUMA 2021</title>
+    <link>/</link>
+    <description>Recent content on DEUMA 2021</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 12 Oct 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Índice de volumen concesionado de agua subterránea.</title>
+      <link>/metodolog%C3%ADa/ivcas/</link>
+      <pubDate>Sat, 12 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/metodolog%C3%ADa/ivcas/</guid>
+      <description>El análisis se organiza en dos etapas, la primera se basa en el estudio de la intensidad en el uso de los recursos hídricos subterráneos para lo cual se consideran los 48 acuíferos de la entidad con énfasis en los acuíferos en los que se ubican los valles vitivinícolas.
+En esta etapa se calcula el índice de volumen concesionado de agua subterránea (IVCAS), un indicador que ha sido empleado previamente por estudios especializados sobre utilización de recursos hídricos en el país Manzanares-Rivera, 2016 que tiene el propósito de capturar el grado de presión desde una perspectiva de sustentabilidad ya que contrasta el volumen concesionado respecto a la capacidad de recarga del acuífero.</description>
+    </item>
+    
+    <item>
+      <title>Modelado hidrológico</title>
+      <link>/metodolog%C3%ADa/2016-10-10-modelado-hidrol%C3%B3gico/</link>
+      <pubDate>Thu, 10 Oct 2019 21:49:57 -0700</pubDate>
+      
+      <guid>/metodolog%C3%ADa/2016-10-10-modelado-hidrol%C3%B3gico/</guid>
+      <description>En esta etapa se aplican herramientas de modelado hidrológico para construir la red de drenaje natural en la región, una estimación de interés para identificar las principales corrientes superficiales por las que fluye el recurso y los rasgos que definen los parámetros de recarga de los acuíferos, así como factores potenciales de contaminación por el arrastre de sustancias empleadas en la actividad agrícola intensiva como los fertilizantes. Para este propósito se emplea como fuente primaria el modelo digital de elevación con resolución de 15 metros por pixel Continuo de Elevaciones Mexicano, (INEGI, 2019).</description>
+    </item>
+    
+    <item>
+      <title>Indicadores a partir de imágenes satelitales  multiespectrales Sentinel2A  </title>
+      <link>/metodolog%C3%ADa/2019-10-23-remote-sensing/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/metodolog%C3%ADa/2019-10-23-remote-sensing/</guid>
+      <description>En la segunda etapa de la investigación se aplican herramientas de precepción remota para el análisis de imágenes satelitales multiespectrales en formato ráster adquiridas mediante el proyecto Sentinel2, un proyecto a cargo de la comisión Europea Copérnico. La resolución que se tiene con este acervo es en el rango de 10 a 60 metros por pixel, lo que se considera adecuado dada la escala regional de este trabajo de investigación.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/login/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/login/</guid>
+      <description> Get StartedCreate AccountNeed Help?</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/profile/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/profile/</guid>
+      <description>FollowAbout meJosé Luis Manzanares Rivera es un investigador mexicano especializado en el análisis de datos. Es doctor en ciencias económicas por la Universidad Autónoma de Baja California y colabora en El Colegio de la Frontera Norte como investigador titular en el Departamento de Estudios Urbanos y del Medio Ambiente.Ha realizado trabajo de investigación en diversos paises entre ellos Chile y Australia.Desde 2012 es miembro del Sistema Nacional de Investigadores del Consejo Nacional de Ciencia y Tecnología y es autor de más de 20 publicaciones científicas, entre ellas artículos académicos en revistas especializadas en países como Argentina, Colombia, Costa Rica y Estados Unidos.</description>
+    </item>
+    
+    <item>
+      <title>Components</title>
+      <link>/resultados/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resultados/</guid>
+      <description>Resultados.Valle de Guadalupe, Baja California, México.Designed by. Coded by. --Resultados          Full paper PDF Comparte tu experiencia en gestión integral de recursos hídricos.</description>
+    </item>
+    
+    <item>
+      <title>Retos para la producción vitivinícola en la región norte de Baja California.</title>
+      <link>/intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/intro/</guid>
+      <description>El valle de GuadalupeLos valles vitivinícolas de Guadalupe, Ojos Negros, San Vicente y Santo Tomás, ubicados en una franja entre los 32° 08´ 23´´ y 31° 09´ 53´´ de latitud Norte, en el estado fronterizo de Baja California conforman la principal región vinícola de México con una superficie de 3,910 hectáreas dedicada al cultivo de la vid industrial equivalente al 51% de la superficie cosechada total del país durante el ciclo 2018.</description>
+    </item>
+    
+    <item>
+      <title>¿Por qué es importante esta región?</title>
+      <link>/previos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/previos/</guid>
+      <description>Recientemente la atención se ha dirigido a los retos que enfrenta la región desde una perspectiva de sustentabilidad. En esta vertiente de corte empírico, el estudio de los recursos hídricos constituye una línea de creciente interés. Investigaciones pioneras como (del Toro-Guerrero, Kretzschmar, &amp;amp; Hinojosa-Corona, 2014), dirigen la atención a la perspectiva ambiental y estudian los parámetros necesarios para determinar el balance hídrico en la subcuenca en la que se asienta el Valle de Guadalupe.</description>
+    </item>
+    
+  </channel>
+</rss>
